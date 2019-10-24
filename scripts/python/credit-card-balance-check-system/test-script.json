@@ -1,0 +1,18 @@
+{
+  "sessionAttributes": {
+    "CustomerNumber": "+60176053920"
+  },
+  "bot": {
+    "name": "creditCardBalCheck",
+    "alias": "$LATEST",
+    "version": "$LATEST"
+  },
+  "outputDialogMode": "Text",
+  "currentIntent": {
+    "name": "checkCreditCardBal",
+    "slots": {
+      "ccType": "platinum"
+    },
+    "confirmationStatus": "None"
+  }
+}
